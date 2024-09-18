@@ -1,0 +1,13 @@
+{
+    "20341780287": {
+        "name": "Govind Jha",
+        "password": "Neelu@143",
+        "account_type": "Current",
+        "balance": 400.0,
+        "transactions": [
+            "Deposit: 400.0 on 2024-09-17 08:38:00.050446"
+        ],
+        "last_withdrawal": null,
+        "withdrawal_today": 0
+    }
+}
